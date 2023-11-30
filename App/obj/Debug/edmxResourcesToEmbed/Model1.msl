@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DataModelStoreContainer" CdmEntityContainer="DataEntities">
+    <EntitySetMapping Name="adminaos">
+      <EntityTypeMapping TypeName="DataModel.adminao">
+        <MappingFragment StoreEntitySet="adminao">
+          <ScalarProperty Name="TID" ColumnName="TID" />
+          <ScalarProperty Name="uname" ColumnName="uname" />
+          <ScalarProperty Name="upassword" ColumnName="upassword" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="useraos">
+      <EntityTypeMapping TypeName="DataModel.userao">
+        <MappingFragment StoreEntitySet="userao">
+          <ScalarProperty Name="TID" ColumnName="TID" />
+          <ScalarProperty Name="uname" ColumnName="uname" />
+          <ScalarProperty Name="upassword" ColumnName="upassword" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="userrs">
+      <EntityTypeMapping TypeName="DataModel.userr">
+        <MappingFragment StoreEntitySet="userr">
+          <ScalarProperty Name="TID" ColumnName="TID" />
+          <ScalarProperty Name="uname" ColumnName="uname" />
+          <ScalarProperty Name="upassword" ColumnName="upassword" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="addresss" ColumnName="addresss" />
+          <ScalarProperty Name="department" ColumnName="department" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

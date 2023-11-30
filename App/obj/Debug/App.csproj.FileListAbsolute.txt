@@ -1,0 +1,11 @@
+C:\Users\IT\Desktop\App\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\App\App\obj\Debug\Admin home.g.cs
+C:\Users\IT\Desktop\App\App\obj\Debug\Forget Pass.g.cs
+C:\Users\IT\Desktop\App\App\obj\Debug\login.g.cs
+C:\Users\IT\Desktop\App\App\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\App\App\obj\Debug\sign up.g.cs
+C:\Users\IT\Desktop\App\App\obj\Debug\user home.g.cs
+C:\Users\IT\Desktop\App\App\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\App\App\obj\Debug\App_MarkupCompile.cache
+C:\Users\IT\Desktop\App\App\obj\Debug\App_MarkupCompile.lref
+C:\Users\IT\Desktop\App\App\obj\Debug\App_Content.g.cs
